@@ -8,6 +8,13 @@
       "when": 1758691151087,
       "tag": "0000_rare_hercules",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1758783410087,
+      "tag": "0001_remarkable_maximus",
+      "breakpoints": true
     }
   ]
 }
